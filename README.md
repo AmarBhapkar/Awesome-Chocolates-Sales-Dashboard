@@ -9,10 +9,20 @@ This Power BI dashboard provides an overview of the sales performance for Awesom
 
 **Features:**
 
-Sales Trend by Month: Visual representation of sales performance across different months. Identifies peak and low sales periods.
-Shipments Analysis: Bar chart displaying the number of shipments based on box sizes. This helps assess distribution efficiency.
-Salesperson Performance: Detailed breakdown of individual salespersons, showing sales, profits, profit percentage, and LBS%. Performance indicators highlight top performers and areas requiring attention.
-Geographical Insights: Filters available for regions including Australia, Canada, India, the UK, and the USA, allowing for region-specific analysis.
+**Sales Trend by Month:**
+Visual representation of sales performance across different months. Identifies peak and low sales periods.
+
+**Shipments Analysis:** 
+Bar chart displaying the number of shipments based on box sizes. This helps assess distribution efficiency.
+
+**Salesperson Performance:**
+Detailed breakdown of individual salespersons, showing sales, profits, profit percentage, and LBS%. Performance indicators highlight top performers and areas requiring attention.
+
+**Product Performance:** 
+A detailed breakdown of individual products (such as 99% Dark & Pure, Almond Choco, Peanut Butter Cubes) showing their respective sales, profits, profit percentage, and LBS%. The product table can be accessed via bookmarks for deeper product-level insights.
+
+**Geographical Insights:** 
+Filters available for regions including Australia, Canada, India, the UK, and the USA, allowing for region-specific analysis.
 Product Performance: A detailed breakdown of individual products (such as 99% Dark & Pure, Almond Choco, Peanut Butter Cubes) showing their respective sales, profits, profit percentage, and LBS%. The product table can be accessed via bookmarks for deeper product-level insights.
 
 **Dashboard Components**
